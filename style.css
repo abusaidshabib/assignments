@@ -1,0 +1,238 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.tm {
+    margin-top: 30px;
+}
+
+.dflex {
+    display: flex;
+    justify-content: center;
+
+}
+
+.first-section {
+    background: linear-gradient(#ffffff4f, rgb(0, 0, 0)), url(images/donation4.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 142px 0px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 75px;
+    letter-spacing: -0.72px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px #eeeeee69;
+}
+
+.re-text {
+    font-size: 22px;
+    font-weight: 500px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.hbutton {
+
+    padding: 16px 14px 16px 14px;
+    text-decoration: none;
+    background-color: #FF5959;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.sec-section {
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+
+}
+
+.tkbox {
+    background-color: #eeeeee;
+    list-style-type: none;
+    padding: 30px;
+    font-size: 32px;
+    font-weight: 800;
+    margin-right: 20px;
+    color: rgb(80, 80, 80);
+
+
+
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 25px;
+    color: #0F141E;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.inp {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    width: 50%;
+    border: 0px;
+    border-bottom: 2px solid rgb(80, 80, 80);
+    outline: 0px;
+}
+
+.thi-section {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.fea-box {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px 30px 40px 30px;
+    justify-content: left;
+    margin-bottom: 50px;
+}
+
+.c1 {
+    background-color: rgba(109, 233, 255, 0.473);
+}
+
+.c2 {
+    background-color: rgba(255, 143, 109, 0.514);
+}
+
+.c3 {
+    background-color: rgba(167, 255, 109, 0.452);
+}
+
+.ex-mar {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.e-ma {
+    border: 0;
+    background-color: #c2c2c2;
+    padding: 10px 125px 10px 25px;
+    outline: 0;
+    text-align: left;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 16px;
+}
+
+.sbutton {
+    text-decoration: none;
+    background-color: #FF5959;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 13px 20px 14px 20px;
+    border-radius: 0px 10px 10px 0px;
+    margin-left: -3px;
+}
+
+.t-box {
+    margin: 80px 20% 0px 20%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: #0F141E;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 28px;
+    color: #FF5959;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+
+.creative-section {
+    margin: 100px 50px 100px 50px;
+    text-align: center;
+}
+
+.bg-1 {
+    background-image: url(images/donation9.jpg);
+    width: 300px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bg-2 {
+    background-image: url(images/donation12.png);
+    width: 300px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h5 {
+    font-size: 42px;
+    font-family: 'Lobster', cursive;
+    font-weight: 500;
+    color: #FF5959;
+    text-shadow: 5px 5px 5px 5px #FFFFFF;
+    text-align: left;
+
+}
+
+h6 {
+    font-size: 32px;
+    font-family: 'Lobster', cursive;
+    font-weight: 500;
+    color: #0F141E;
+    text-shadow: 5px 5px 5px 5px #FFFFFF;
+    text-align: center;
+    background-color: #ffffffa8;
+}
+
+.text-ali {
+    text-align: left;
+    justify-content: left;
+}
+
+.ran-tex {
+    color: #FFFFFF;
+    padding-top: 200px;
+}
+
+.margi {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.de-div {
+    box-shadow: 2px 2px 10px #130a0a;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
