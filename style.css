@@ -236,3 +236,14 @@ h6 {
     margin-left: 30px;
 
 }
+.de-box{
+    background-color: #ff595980;
+        list-style-type: none;
+        border: 2px solid #FF5959;
+        border-radius: 5px;
+        padding: 30px;
+        font-size: 32px;
+        font-weight: 800;
+        margin-right: 20px;
+        color: rgb(255, 255, 255);
+}
